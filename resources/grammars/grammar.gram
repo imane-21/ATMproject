@@ -1,0 +1,16 @@
+#JSGF V1.0;
+
+/**
+ * Il faudrait am�liorer la grammaire par exemple en ajoutant des mots similaires (re, retirer) 
+ * On pourrait �galement ajouter des prononciations diff�rentes dans le dictionnaire 
+ */
+
+grammar ATM;
+
+
+
+public <ATM1> = (  consulter | consultation ) (de | le | du ) ( solde)  ;
+public <ATM2> = ( depot | retrait   )  ;
+
+
+

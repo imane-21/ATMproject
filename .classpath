@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="librairies/javafx/javafx.base.jar"/>
+	<classpathentry kind="lib" path="librairies/javafx/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="librairies/javafx/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="librairies/javafx/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="librairies/javafx/javafx.media.jar"/>
+	<classpathentry kind="lib" path="librairies/javafx/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="librairies/javafx/javafx.web.jar"/>
+	<classpathentry kind="lib" path="librairies/javafx/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="librairies/javafx sdk/org.eclipse.fx.ide.css.jfx8_3.8.0.202204150904.jar"/>
+	<classpathentry kind="lib" path="librairies/java SE 11/jrt-fs.jar"/>
+	<classpathentry kind="lib" path="librairies/marytts/marytts-builder-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="librairies/marytts/marytts-lang-fr-5.2.jar"/>
+	<classpathentry kind="lib" path="librairies/marytts/voice-upmc-jessica-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="librairies/marytts/voice-upmc-pierre-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="librairies/marytts/marytts-lang-en-5.2.jar"/>
+	<classpathentry kind="lib" path="librairies/marytts/voice-cmu-rms-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="librairies/marytts/voice-dfki-poppy-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="librairies/marytts/voice-cmu-slt-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="librairies/sql/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="lib" path="resources/libraries/sphinx4-data-5prealpha-20160628.232535-10.jar"/>
+	<classpathentry kind="lib" path="resources/libraries/sphinx4-core-5prealpha-20160628.232526-10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="limit-modules" value="java.se,jdk.accessibility,jdk.dynalink,jdk.httpserver,jdk.incubator.foreign,jdk.incubator.vector,jdk.jartool,jdk.javadoc,jdk.jconsole,jdk.jshell,jdk.jsobject,jdk.management.jfr,jdk.net,jdk.nio.mapmode,jdk.sctp,jdk.security.auth,jdk.security.jgss,jdk.unsupported,jdk.unsupported.desktop,jdk.xml.dom,jdk.charsets,jdk.hotspot.agent,jdk.jstatd,jdk.jcmd,jdk.crypto.cryptoki,jdk.random,jdk.naming.rmi,jdk.zipfs,jdk.crypto.mscapi,jdk.editpad,java.smartcardio,jdk.internal.vm.compiler,jdk.internal.vm.compiler.management,jdk.jpackage,jdk.naming.dns,jdk.localedata"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

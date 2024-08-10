@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar ATM;
+
+
+
+public <yesno> = ( oui | non ) ;
