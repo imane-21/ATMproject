@@ -4,7 +4,7 @@
 
 This **ATM project** is a banking terminal application that allows users to perform basic transactions such as withdrawals, deposits, and balance inquiries using a Java application. It includes additional features to assist visually impaired users through **text-to-speech** and **speech recognition** functionalities.
 
-[Link to the demo (in French)](https://up75-my.sharepoint.com/personal/imane_barahimi_etu_u-paris_fr/_layouts/15/stream.aspx?id=%2Fpersonal%2Fimane_barahimi_etu_u-paris_fr%2FDocuments%2Fdemo%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5fe7314a-0bb6-4b31-ac45-41e3537f6074)
+[Link to the demo (in French)](https://up75-my.sharepoint.com/:v:/g/personal/imane_barahimi_etu_u-paris_fr/ESQOfLfU-RJPv0fR942C2T0BAwDl7AsVKCf991ZvaYKL_Q?e=jTEheJ)
 
 ## Technologies Used
 
