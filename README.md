@@ -50,5 +50,12 @@ Some planned improvements for the project include:
 - Making the project fully exportable as a standalone application to avoid dependency conflicts.
 - ... to be continued.
 
+## Contributors
+
+- [Imane Barahimi](https://github.com/imane-21)
+- [Clara Ait Mokhtar](https://github.com/claraait123)
+
+
+
 ---
 
